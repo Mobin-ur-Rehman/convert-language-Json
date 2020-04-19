@@ -5,16 +5,10 @@
         "earn_eff":"Earn Effortlessly",
         "enar_needed":"english and arbic text needed",
         "get_st":"Get started",
-        "al_have_acc":"Already have an account?",
+        "al_acc":"Already have an account?",
         "sg_in":"sign in",
         "exp_reward":"Experience reward",
-        "enar_needed":"english and arbic text needed",
-        "g_started":"Get started",
-        "al_have_acc":"Already have an account?",
-        "sg_in":"sign in",
-        "earn_more_pt":"Earn even more points",
-        "enar_needed":"english and arbic text needed",
-        "g_started":"Get started"
+        "earn_more_pt":"Earn even more points"
     }
 }
 
@@ -26,14 +20,14 @@
             "country-cd":"country code",
             "select_cd":"select code",
             "ph_no":"phone number",
-            "etr_ph_no":"enter phone number",
+            "etr_ph":"enter phone number",
             "next":"next",
             "ttl":"title",
             "slt_ttl":"Select title",
             "f_name":"first name",
-            "ent_f_name":"enter first name",
+            "etr_Fname":"enter first name",
             "s_name":"surname",
-            "ent_s_name":"enter surname",
+            "ent_sname":"enter surname",
             "nationality":"nationality",
             "slt_nationality":"select nationality",
             "next":"next",
@@ -42,25 +36,25 @@
             "pass(8+Char)":"password(8+ character)",
             "etr_pass":"enter password",
             "your_pass":"your password must contains",
-            "atleast_8_char":"use atleast 8 characters",
-            "atleast_1_no":"use atleast 1 number",
-            "atleast_1_uppercase":"use atleast 1 upper case letter",
-            "atleast_1_lowercase":"use atleast 1 lower case letter",
+            "8_char":"use atleast 8 characters",
+            "atleast_1no":"use atleast 1 number",
+            "1_uppercase":"use atleast 1 upper case letter",
+            "1_lowercase":"use atleast 1 lower case letter",
             "cnfm_pass":"confirm password",
             "etr_pass":"enter password",
-            "agree_all_terms":"I agree to the terms & condition and the privacy policy",
+            "agree_terms":"I agree to the terms & condition and the privacy policy",
             "uptodate":"keep me up to date with promotions and offers",
         }
     }
 
     {
         "VERIFICATION EMAIL SENT":{
-            "vrf_email":"Verification email sent",
-            "sent_and_email":"we have just sent and email to",
-            "follow_the_link":"follow the link to complete sign up",
+            "vrf_e":"Verification email sent",
+            "sent_e":"we have just sent and email to",
+            "follow_link":"follow the link to complete sign up",
             "ver_sms":"Verification sms sent",
-            "ver_sms_cd":"verification sms code sent",
-            "snd_sms_on_your_no":"we have just send a sms on your number",
+            "ver_cd":"verification sms code sent",
+            "snd_sms":"we have just send a sms on your number",
             
         }
     }
