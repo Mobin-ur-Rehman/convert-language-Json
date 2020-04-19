@@ -8,7 +8,7 @@
         "al_acc":"Already have an account?",
         "sg_in":"sign in",
         "exp_reward":"Experience reward",
-        "earn_more_pt":"Earn even more points"
+        "earn_pt":"Earn even more points"
     }
 }
 
@@ -16,8 +16,8 @@
         "SIGN UP":{
             "sg_up":"Sign up",
             "Email":"Email",
-            "etr-email":"Enter email",
-            "country-cd":"country code",
+            "etr_email":"Enter email",
+            "country_cd":"country code",
             "select_cd":"select code",
             "ph_no":"phone number",
             "etr_ph":"enter phone number",
@@ -33,13 +33,13 @@
             "next":"next",
     
     
-            "pass(8+Char)":"password(8+ character)",
+            "pass":"password(8+ character)",
             "etr_pass":"enter password",
             "your_pass":"your password must contains",
             "8_char":"use atleast 8 characters",
             "atleast_1no":"use atleast 1 number",
-            "1_uppercase":"use atleast 1 upper case letter",
-            "1_lowercase":"use atleast 1 lower case letter",
+            "use_up":"use atleast 1 upper case letter",
+            "use-lp":"use atleast 1 lower case letter",
             "cnfm_pass":"confirm password",
             "etr_pass":"enter password",
             "agree_terms":"I agree to the terms & condition and the privacy policy",
